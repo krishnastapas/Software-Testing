@@ -1,0 +1,261 @@
+\documentclass[11pt]{article}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{graphicx}
+\hypersetup{
+    colorlinks=true,    % Set to false if you don't want colored links
+    linkcolor=black,    % Internal links (e.g., within the document)
+    urlcolor=blue        % External links (e.g., URLs)
+}
+
+\begin{document}
+
+
+\begin{center}
+    \includegraphics[width=5cm]{latexImage_17d5317800ac25b3e29b40ca83fbc68f.png}
+\end{center}
+\vspace{50pt}
+\hline
+\vspace{5pt}
+\begin{center}
+    \Large Software Testing Laboratory 
+
+    \Large (CS6474)
+
+    \Large Assignment 02
+\end{center}
+
+\vspace{5pt}
+\hline
+\vspace{50pt}
+
+\begin{center}
+    \Large {\textbf{Tapas Manna}}
+
+    \Large {\textbf{223CS3152}}
+
+    \Large Master of Technology
+    
+    \Large 223cs3152@nitrkl.ac.in
+    
+
+    
+\end{center}
+
+\vspace{150pt}
+\begin{center}
+    \Large {\textbf{Department of Computer Science & Engineering}}
+
+    \Large {\textbf{NIT, Rourkela}}
+    \vspace{5pt}
+
+    \Large {September 2, 2023}
+\end{center}
+\section{Website 1:IRCTC \href{https://www.irctc.co.in/}{https://www.irctc.co.in/}}
+\subsection{Selenium RC Screenshot IRCTC website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/irctc.jpeg}
+  \caption{IRCTC Website}
+  \label{fig:example}
+\end{figure}
+\subsection{IRCTC : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/irctc.java}
+\newpage
+\section{Website 2: Book my show\href{https://www.selenium.dev}{https://in.bookmyshow.com/}}
+\subsection{Selenium RC Screenshot BookMyShow website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/bookmyshow.jpeg}
+  \caption{BookMyShow Website}
+  \label{fig:example}
+\end{figure}
+\subsection{BookMyShow : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/bookmyshow.java}
+
+\newpage
+\section{Website 3:MyGov \href{https://mail.google.com/}{https://www.mygov.in/}}
+\subsection{Selenium RC Screenshot MyGov website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/mygov.jpeg}
+  \caption{MyGov Website}
+  \label{fig:example}
+\end{figure}
+\subsection{MyGov : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/mygov.java}
+
+\newpage
+\section{Website 4:\href{https://vedabase.io/}{https://vedabase.io/}}
+\subsection{Selenium RC Screenshot vedaBase website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/vedabase.jpeg}
+  \caption{VedaBase Website}
+  \label{fig:example}
+\end{figure}
+\subsection{VedaBase : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/vedabase.java}
+
+\newpage
+\section{Website 5:\href{https://chat.openai.com/}{https://chat.openai.com/}}
+\subsection{Selenium RC Screenshot chatGPT website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/chatgpt.jpeg}
+  \caption{chatGPT Website}
+  \label{fig:example}
+\end{figure}
+\subsection{ChatGpt : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/openai.java}
+
+\newpage
+\section{Website 6:\href{https://stackoverflow.com/}{https://stackoverflow.com/}}
+\subsection{Selenium RC Screenshot stackOverFlow website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/stackoverflow.jpeg}
+  \caption{StackOverFlow Website}
+  \label{fig:example}
+\end{figure}
+\subsection{stackOverFlow : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/stackoverflow.java}
+
+\newpage
+\section{Website 7:\href{https://www.codechef.com/}{https://www.codechef.com/}}
+\subsection{Selenium RC Screenshot codeChef website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/codechef.jpeg}
+  \caption{Code chef Website}
+  \label{fig:example}
+\end{figure}
+\subsection{codeChef : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/codechef.java}
+
+\newpage
+\section{Website 8:\href{https://www.youtube.com/}{https://www.youtube.com/}}
+\subsection{Selenium RC Screenshot youtube website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/youtube.jpeg}
+  \caption{Code chef Website}
+  \label{fig:example}
+\end{figure}
+\subsection{youtube : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/youtube.java}
+
+\newpage
+\section{Website 9:\href{https://www.overleaf.com/}{https://www.overleaf.com/}}
+\subsection{Selenium RC Screenshot overleaf website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/overleaf.jpeg}
+  \caption{overleaf Website}
+  \label{fig:example}
+\end{figure}
+\subsection{overleaf : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/overleaf.java}
+
+\newpage
+\section{Website 10:\href{https://classroom.google.com/}{https://classroom.google.com/}}
+\subsection{Selenium RC Screenshot google classroom website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/classroom.jpeg}
+  \caption{google classroom Website}
+  \label{fig:example}
+\end{figure}
+\subsection{Geeks for Geeks Classroom : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/classroom.java}
+
+\newpage
+\section{Website 11:\href{https://www.geeksforgeeks.org/}{https://www.geeksforgeeks.org/}}
+\subsection{Selenium RC Screenshot gfg website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/geeksforgeeks.jpeg}
+  \caption{ Geeks for geeks Website}
+  \label{fig:example}
+\end{figure}
+\subsection{Gfg  : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/geeksforgeeks.java}
+
+\newpage
+\section{Website 12:\href{https://takeuforward.org/}{https://takeuforward.org/}}
+\subsection{Selenium RC Screenshot takeuforward website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/takeuforward.jpeg}
+  \caption{ TakeUforward Website}
+  \label{fig:example}
+\end{figure}
+\subsection{Takeuforward : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/takeuforward.java}
+
+\newpage
+\section{Website 13:\href{https://www.linkedin.com/}{https://www.linkedin.com/}}
+\subsection{Selenium RC Screenshot linkdin website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/linkdin.jpeg}
+  \caption{ Linkdin Website}
+  \label{fig:example}
+\end{figure}
+\subsection{Takeuforward : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/linkdin.java}
+
+\section{Website 14:\href{https://www.amazon.in/}{https://www.amazon.in/}}
+\subsection{Selenium RC Screenshot amazon website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/amazon.jpeg}
+  \caption{ Amazon Website}
+  \label{fig:example}
+\end{figure}
+\subsection{Amazon : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/amazon.java}
+
+\newpage
+\section{Website 15:\href{https://www.coursera.org/}{https://www.coursera.org/}}
+\subsection{Selenium RC Screenshot coursera website.}
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/coursera.jpeg}
+  \caption{ Coursera Website}
+  \label{fig:example}
+\end{figure}
+\subsection{Coursera : Selenium RC java code}
+\lstinputlisting[language=java]{javaFiles/coursera.java}
+
+\end{document}
+
