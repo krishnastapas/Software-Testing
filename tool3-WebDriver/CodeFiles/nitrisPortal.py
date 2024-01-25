@@ -113,5 +113,5 @@ def downloadResult(username, password):
 
 if __name__ == "__main__":
     username = "223CS3152"
-    password = "****"
+    password = "Tarun@108"
     downloadResult(username, password)
