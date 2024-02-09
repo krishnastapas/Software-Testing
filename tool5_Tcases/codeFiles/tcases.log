@@ -1,0 +1,195 @@
+11:28:23.245 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:28:23.250 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./Ice-Cream-Input.xml
+11:28:23.284 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:28:23.288 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:28:23.291 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:28:23.312 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:28:23.313 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:28:23.320 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:28:23.320 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:28:23.325 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./Ice-Cream-Test.htm
+11:30:48.705 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:30:48.708 INFO  org.cornutum.tcases.Tcases - Reading system input definition from standard input
+11:31:20.718 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:31:20.723 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./find-Input.xml
+11:31:20.756 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+11:31:20.760 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+11:31:20.763 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+11:31:20.780 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 6 valid test cases
+11:31:20.781 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+11:31:20.783 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+11:31:20.783 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 10 test cases
+11:31:20.788 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./find-Test.htm
+11:46:14.324 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:46:14.327 INFO  org.cornutum.tcases.Tcases - Reading system input definition from standard input
+11:47:11.492 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:47:11.497 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./tcases-Input.xml
+11:47:11.519 WARN  o.c.t.io.SystemInputDocReader - line=32: property=outFileExists is defined but never used
+11:47:11.523 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./tcases-Generators.xml
+11:47:11.538 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+11:47:11.543 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+11:47:11.548 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+11:47:11.583 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+11:47:11.583 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+11:47:11.596 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+11:47:11.597 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+11:47:11.604 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./tcases-Test.htm
+11:50:32.082 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:50:43.470 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:50:43.475 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./Ice-Cream-Input.xml
+11:50:43.510 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:50:43.514 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:50:43.517 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:50:43.538 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:50:43.539 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:50:43.546 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:50:43.546 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:50:43.552 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./Ice-Cream-Test.htm
+11:54:48.174 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:54:48.179 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./Ice-Cream-Input.xml
+11:54:48.203 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./Ice-Cream-Generators.xml
+11:54:48.216 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:54:48.221 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:54:48.224 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:54:48.240 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 3 valid test cases
+11:54:48.241 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:54:48.249 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:54:48.249 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 5 test cases
+11:54:48.255 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./Ice-Cream-Test.htm
+11:59:22.987 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:59:22.993 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./annotations-Input.xml
+11:59:23.010 WARN  o.c.t.io.SystemInputDocReader - line=49: property=1D is defined but never used
+11:59:23.010 WARN  o.c.t.io.SystemInputDocReader - line=60: property=Large is defined but never used
+11:59:23.026 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:59:23.030 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:59:23.033 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:59:23.040 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:59:23.040 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:59:23.040 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:59:23.040 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:59:23.045 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./annotations-Test.htm
+11:59:47.546 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+11:59:47.553 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./annotations-Input.xml
+11:59:47.572 WARN  o.c.t.io.SystemInputDocReader - line=49: property=1D is defined but never used
+11:59:47.573 WARN  o.c.t.io.SystemInputDocReader - line=60: property=Large is defined but never used
+11:59:47.591 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:59:47.596 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:59:47.599 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:59:47.607 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:59:47.607 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:59:47.607 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:59:47.607 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:59:47.612 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./annotations-Test.htm
+12:00:26.702 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:00:26.706 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./annotations-Input.xml
+12:00:26.717 WARN  o.c.t.io.SystemInputDocReader - line=49: property=1D is defined but never used
+12:00:26.718 WARN  o.c.t.io.SystemInputDocReader - line=60: property=Large is defined but never used
+12:00:26.731 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:26.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:26.736 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:26.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:26.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:26.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:26.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:26.747 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./annotations-Test.htm
+12:01:35.011 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:01:35.016 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./find-Input.xml
+12:01:35.037 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./find-Generators.xml
+12:01:35.051 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:35.055 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:35.058 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:35.074 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 5 valid test cases
+12:01:35.075 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:35.077 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:35.077 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 9 test cases
+12:01:35.082 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./find-Test.htm
+12:03:34.188 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:03:34.194 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./tcases-Input.xml
+12:03:34.215 WARN  o.c.t.io.SystemInputDocReader - line=108: property=outFileExists is defined but never used
+12:03:34.220 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./tcases-Generators.xml
+12:03:34.235 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:34.239 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:34.244 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:34.280 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:34.280 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:34.293 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:34.293 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:34.302 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./tcases-Test.htm
+12:03:56.386 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:03:56.391 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./tcases-Input.xml
+12:03:56.408 WARN  o.c.t.io.SystemInputDocReader - line=108: property=outFileExists is defined but never used
+12:03:56.412 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./tcases-Generators.xml
+12:03:56.427 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:56.430 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:56.435 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:56.469 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:56.469 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:56.483 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:56.483 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:56.490 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./tcases-Test.htm
+12:20:36.860 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:20:36.864 INFO  org.cornutum.tcases.Tcases - Reading system input definition from standard input
+12:20:49.169 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:20:49.173 INFO  org.cornutum.tcases.Tcases - Reading system input definition from standard input
+12:21:20.491 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:21:20.495 INFO  org.cornutum.tcases.Tcases - Reading system input definition from standard input
+12:21:58.193 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:21:58.198 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./tcases-Input.xml
+12:21:58.220 WARN  o.c.t.io.SystemInputDocReader - line=108: property=outFileExists is defined but never used
+12:21:58.224 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./tcases-Generators.xml
+12:21:58.240 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:21:58.244 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:21:58.249 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:21:58.288 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:21:58.288 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:21:58.302 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:21:58.302 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:21:58.310 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./tcases-Test.htm
+12:22:04.367 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:22:04.371 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./tcases-Input.xml
+12:22:04.391 WARN  o.c.t.io.SystemInputDocReader - line=108: property=outFileExists is defined but never used
+12:22:04.396 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./tcases-Generators.xml
+12:22:04.410 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:22:04.414 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:22:04.418 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:22:04.452 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:22:04.453 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:22:04.466 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:22:04.466 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:22:04.479 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./tcasesTest.java
+12:24:46.833 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:24:46.838 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./Ice-Cream-Input.xml
+12:24:46.863 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./Ice-Cream-Generators.xml
+12:24:46.876 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+12:24:46.881 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+12:24:46.884 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+12:24:46.900 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 3 valid test cases
+12:24:46.900 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+12:24:46.909 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+12:24:46.909 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 5 test cases
+12:24:46.915 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./IceCreamTest.java
+12:24:55.059 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:24:55.063 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./annotations-Input.xml
+12:24:55.077 WARN  o.c.t.io.SystemInputDocReader - line=49: property=1D is defined but never used
+12:24:55.077 WARN  o.c.t.io.SystemInputDocReader - line=60: property=Large is defined but never used
+12:24:55.092 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:24:55.096 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:24:55.098 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:24:55.104 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:24:55.104 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:24:55.104 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:24:55.104 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:24:55.109 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./annotationsTest.java
+12:25:12.411 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:25:12.416 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./find-Generators.xml
+12:25:32.146 INFO  org.cornutum.tcases.Tcases - Tcases 4.0.3 (2024-01-19)
+12:25:32.151 INFO  org.cornutum.tcases.Tcases - Reading system input definition from ./find-Input.xml
+12:25:32.172 INFO  org.cornutum.tcases.Tcases - Reading generator definition=./find-Generators.xml
+12:25:32.185 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:25:32.189 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:25:32.191 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:25:32.208 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 5 valid test cases
+12:25:32.208 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:25:32.210 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:25:32.210 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 9 test cases
+12:25:32.216 INFO  org.cornutum.tcases.Tcases - Writing test definition to ./findTest.java

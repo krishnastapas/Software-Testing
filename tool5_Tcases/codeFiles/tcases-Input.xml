@@ -1,0 +1,276 @@
+<!-- 
+    System: Tcases
+
+    Function: run
+
+    Specification:
+    This function is responsible for running test cases with various options.
+
+    Inputs:
+    - defaultTupleSize: Specifies the default tuple size for test cases.
+        - Yes: Indicates that a default tuple size is defined.
+        - No: Indicates that no default tuple size is defined.
+        - isNumber: Indicates whether the default tuple size is a number or not. Failure occurs if it's not a number.
+
+    - outFile: Specifies the output file option.
+        - Yes: Indicates that an output file is defined.
+        - No: Indicates that no output file is defined.
+        - TransformOutputUndefined: Failure occurs if transformed output is undefined and the test file exists.
+
+    - genFile: Specifies the generated file option.
+        - Yes: Indicates that a generated file is defined.
+        - No: Indicates that no generated file is defined.
+        - path: Specifies the path of the generated file.
+        - isAbsolute: Indicates whether the path is absolute or not.
+        - exists: Indicates whether the generated file exists or not.
+
+    - isJUnit: Specifies whether the output format is JUnit or not.
+        - Yes: Indicates the output format is JUnit. It also marks transformed output if transform is not specified.
+        - No: Indicates the output format is not JUnit if transform is specified.
+        - NotAllowed: Failure occurs if transform is specified and isJUnit is not allowed.
+
+    - newTests: Specifies whether new tests are defined or not.
+        - Yes: Indicates new tests are defined when the test file exists.
+        - No: Indicates no new tests are defined.
+
+    - outDir: Specifies the output directory option.
+        - Yes: Indicates that an output directory is defined.
+        - No: Indicates that no output directory is defined.
+        - path: Specifies the path of the output directory.
+        - exists: Indicates whether the output directory exists or not.
+        - isDirectory: Indicates whether the path is a directory or not. Failure occurs if it's not a directory.
+
+    - transformParams: Specifies the transformation parameters option.
+        - count: Specifies the count of transformation parameters.
+        - assignsValue: Indicates whether the transformation parameter assigns a value or not. Failure occurs if it doesn't assign a value.
+        - nameDefined: Indicates whether the name of the transformation parameter is defined or not. Failure occurs if it's not defined.
+        - valueDefined: Indicates whether the value of the transformation parameter is defined or not.
+
+    - seed: Specifies the seed option for generating random values.
+        - Yes: Indicates that a seed is defined for generating random values.
+        - No: Indicates that no seed is defined.
+        - isNumber: Indicates whether the seed is a number or not. Failure occurs if it's not a number.
+
+    - testFile: Specifies the test file option.
+        - Yes: Indicates that a test file is defined.
+        - No: Indicates that no test file is defined.
+        - path: Specifies the path of the test file.
+        - isAbsolute: Indicates whether the path is absolute or not.
+        - exists: Indicates whether the test file exists or not.
+
+    - transform: Specifies the transformation option.
+        - Yes: Indicates that a transformation is defined.
+        - No: Indicates that no transformation is defined.
+        - path: Specifies the path of the transformation.
+        - isAbsolute: Indicates whether the path is absolute or not.
+        - exists: Indicates whether the transformation exists or not.
+
+    - inFile: Specifies the input definition file option.
+        - Yes: Indicates that an input definition file is defined.
+        - No: Indicates that no input definition file is defined.
+        - path: Specifies the path of the input definition file.
+        - isAbsolute: Indicates whether the path is absolute or not.
+        - exists: Indicates whether the input definition file exists or not.
+
+-->
+
+<System name="Tcases">
+  <Function name="run">
+    <Input>
+
+      <!-- Option: -c -->
+      <VarSet name="defaultTupleSize">
+        <Var name="defined">
+          <Value name="Yes" property="defaultTupleSize"/>
+          <Value name="No"/>
+        </Var>
+
+        <Var name="isNumber" when="defaultTupleSize">
+          <Value name="Yes"/>
+          <Value name="No" failure="true"/>
+        </Var>
+      </VarSet>
+
+      <!-- Option: -f -->
+      <VarSet name="outFile">
+        <Var name="defined">
+          <Value name="Yes" property="outFile"/>
+          <Value name="No"/>
+          <Value name="TransformOutputUndefined" failure="true" when="transformedOut, testFileExists"/>
+        </Var>
+
+        <VarSet name="path" when="outFile">
+          <Var name="isAbsolute">
+            <Value name="Yes"/>
+            <Value name="No"/>
+          </Var>
+          <Var name="exists">
+            <Value name="Yes" property="outFileExists"/>
+            <Value name="No"/>
+          </Var>
+        </VarSet>
+      </VarSet>
+
+      <!-- Option: -g -->
+      <VarSet name="genFile">
+        <Var name="defined">
+          <Value name="Yes" property="genFile"/>
+          <Value name="No"/>
+        </Var>
+
+        <VarSet name="path" when="genFile">
+          <Var name="isAbsolute">
+            <Value name="Yes"/>
+            <Value name="No"/>
+          </Var>
+          <Var name="exists">
+            <Value name="Yes"/>
+            <Value name="No" failure="true"/>
+          </Var>
+        </VarSet>
+
+        <Var name="default" whenNot="genFile">
+          <Value name="ForInputExists" when="inFile"/>
+          <Value name="ForInputNone" when="inFile"/>
+          <Value name="Standard" whenNot="inFile"/>
+        </Var>
+      </VarSet>
+
+      <!-- Option: -J -->
+      <Var name="isJUnit">
+        <Value name="Yes" property="isJUnit, transformedOut" whenNot="transform"/>
+        <Value name="No" when="transform"/>
+        <Value name="NotAllowed" when="transform" failure="true"/>
+      </Var>
+
+      <!-- Option: -n -->
+      <VarSet name="newTests">
+        <Var name="defined" when="testFileExists">
+          <Value name="Yes"/>
+          <Value name="No"/>
+        </Var>
+      </VarSet>
+
+      <!-- Option: -o -->
+      <VarSet name="outDir">
+        <Var name="defined">
+          <Value name="Yes" property="outDir"/>
+          <Value name="No"/>
+        </Var>
+
+        <VarSet name="path" when="outDir">
+          <Var name="exists">
+            <Value name="Yes" property="outDirExists"/>
+            <Value name="No"/>
+          </Var>
+          <Var name="isDirectory" when="outDirExists">
+            <Value name="Yes"/>
+            <Value name="No" failure="true"/>
+          </Var>
+        </VarSet>
+      </VarSet>
+
+      <!-- Option: -p -->
+      <VarSet name="transformParams">
+        <When>
+          <AnyOf property="transform, isJUnit"/>
+        </When>
+        <Var name="count">
+          <Value name="One" property="params"/>
+          <Value name="Many" property="params"/>
+          <Value name="None"/>
+        </Var>
+        <Var name="assignsValue" when="params">
+          <Value name="Yes"/>
+          <Value name="No" failure="true"/>
+        </Var>
+        <Var name="nameDefined" when="params">
+          <Value name="Yes"/>
+          <Value name="No" failure="true"/>
+        </Var>
+        <Var name="valueDefined" when="params">
+          <Value name="Yes"/>
+          <Value name="No"/>
+        </Var>
+      </VarSet>
+
+      <!-- Option: -r -->
+      <VarSet name="seed">
+        <Var name="defined">
+          <Value name="Yes" property="random"/>
+          <Value name="No"/>
+        </Var>
+
+        <Var name="isNumber" when="random">
+          <Value name="Yes"/>
+          <Value name="No" failure="true"/>
+        </Var>
+      </VarSet>
+
+      <!-- Option: -t -->
+      <VarSet name="testFile">
+        <Var name="defined">
+          <Value name="Yes" property="testFile"/>
+          <Value name="No"/>
+        </Var>
+
+        <VarSet name="path" when="testFile">
+          <Var name="isAbsolute">
+            <Value name="Yes"/>
+            <Value name="No"/>
+          </Var>
+          <Var name="exists">
+            <Value name="Yes" property="testFileExists"/>
+            <Value name="No"/>
+          </Var>
+        </VarSet>
+
+        <VarSet name="default" whenNot="testFile">
+          <Var name="exists">
+            <Value name="Yes" property="testFileExists"/>
+            <Value name="No"/>
+          </Var>
+        </VarSet>
+      </VarSet>
+
+      <!-- Option: -x -->
+      <VarSet name="transform">
+        <Var name="defined">
+          <Value name="Yes" property="transform, transformedOut"/>
+          <Value name="No"/>
+        </Var>
+        <VarSet name="path" when="transform">
+          <Var name="isAbsolute">
+            <Value name="Yes"/>
+            <Value name="No"/>
+          </Var>
+          <Var name="exists">
+            <Value name="Yes"/>
+            <Value name="No" failure="true"/>
+          </Var>
+        </VarSet>
+      </VarSet>
+
+      <!-- Input definition file -->
+      <VarSet name="inFile">
+        <Var name="defined">
+          <Value name="Yes" property="inFile"/>
+          <Value name="No"/>
+        </Var>
+        <VarSet name="path" when="inFile">
+          <Var name="isAbsolute">
+            <Value name="Yes"/>
+            <Value name="No"/>
+          </Var>
+          <Var name="exists">
+            <Value name="asDefined"/>
+            <Value name="withInputXml"/>
+            <Value name="withXml"/>
+            <Value name="No" failure="true"/>
+          </Var>          
+        </VarSet>
+      </VarSet>
+
+    </Input>
+  </Function>
+</System>

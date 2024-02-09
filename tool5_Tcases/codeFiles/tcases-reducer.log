@@ -1,0 +1,569 @@
+11:53:58.608 INFO  o.cornutum.tcases.ReducerCommand - Tcases 4.0.3 (2024-01-19)
+11:53:58.613 INFO  o.cornutum.tcases.ReducerCommand - Reading system input definition=Ice-Cream-Input.xml
+11:53:58.640 INFO  org.cornutum.tcases.Reducer - [Cones] Initializing test cases to be reduced
+11:53:58.642 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.646 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.649 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.671 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:53:58.672 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.680 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.680 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:53:58.685 INFO  org.cornutum.tcases.Reducer - [Cones] Round 1: starting next 10 samples
+11:53:58.685 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.685 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.685 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.690 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 4 valid test cases
+11:53:58.690 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.698 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.698 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 6 test cases
+11:53:58.699 INFO  org.cornutum.tcases.Reducer - [Cones] Round 1: after 1 samples, reached 6 test cases with seed=863102758509986816
+11:53:58.699 INFO  org.cornutum.tcases.Reducer - [Cones] Round 2: starting next 10 samples
+11:53:58.699 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.699 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.699 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.704 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:53:58.705 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.709 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.709 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:53:58.710 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.710 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.710 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.715 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 4 valid test cases
+11:53:58.715 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.720 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.720 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 6 test cases
+11:53:58.721 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.721 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.721 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.724 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 3 valid test cases
+11:53:58.724 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.728 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.728 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 5 test cases
+11:53:58.729 INFO  org.cornutum.tcases.Reducer - [Cones] Round 2: after 3 samples, reached 5 test cases with seed=3233634663575812096
+11:53:58.729 INFO  org.cornutum.tcases.Reducer - [Cones] Round 3: starting next 10 samples
+11:53:58.729 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.729 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.729 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.732 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 4 valid test cases
+11:53:58.733 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.737 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.737 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 6 test cases
+11:53:58.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.742 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:53:58.742 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.747 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.747 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:53:58.748 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.748 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.748 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.751 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 4 valid test cases
+11:53:58.752 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.756 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.756 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 6 test cases
+11:53:58.756 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.756 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.756 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.759 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 4 valid test cases
+11:53:58.759 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.764 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.765 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 6 test cases
+11:53:58.765 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.765 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.765 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.768 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:53:58.769 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.773 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.773 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:53:58.773 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.773 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.773 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.775 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 4 valid test cases
+11:53:58.776 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.779 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.779 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 6 test cases
+11:53:58.780 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.780 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.780 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.782 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 4 valid test cases
+11:53:58.782 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.785 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.785 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 6 test cases
+11:53:58.786 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.786 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.786 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.789 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:53:58.789 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.792 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.792 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:53:58.793 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.793 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.793 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.796 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:53:58.796 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.799 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.799 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:53:58.799 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Preparing constraint info
+11:53:58.799 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Generating test cases
+11:53:58.799 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 valid base test cases
+11:53:58.802 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 5 valid test cases
+11:53:58.802 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Extended 0 base failure test cases
+11:53:58.806 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Created 2 failure test cases
+11:53:58.806 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[Cones]: Completed 7 test cases
+11:53:58.806 INFO  org.cornutum.tcases.Reducer - [Cones] Round 3: after 10 samples, terminating with 5 test cases
+11:53:58.806 INFO  org.cornutum.tcases.Reducer - [Cones] Reduced to 5 test cases with seed=3233634663575812096 -- updating generator definition
+11:58:36.982 INFO  o.cornutum.tcases.ReducerCommand - Tcases 4.0.3 (2024-01-19)
+11:58:36.987 INFO  o.cornutum.tcases.ReducerCommand - Reading system input definition=annotations-Input.xml
+11:58:37.002 WARN  o.c.t.io.SystemInputDocReader - line=49: property=1D is defined but never used
+11:58:37.002 WARN  o.c.t.io.SystemInputDocReader - line=60: property=Large is defined but never used
+11:58:37.008 INFO  org.cornutum.tcases.Reducer - [addShape] Initializing test cases to be reduced
+11:58:37.010 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.014 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.017 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.023 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.024 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.024 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.024 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.028 INFO  org.cornutum.tcases.Reducer - [addShape] Round 1: starting next 10 samples
+11:58:37.028 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.028 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.028 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.030 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.030 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.030 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.030 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.030 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.030 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.030 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.031 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.031 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.031 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.031 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.032 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.032 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.032 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.033 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.033 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.033 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.033 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.033 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.033 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.033 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.034 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.034 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.034 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.034 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.035 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.035 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.035 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.036 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.036 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.036 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.036 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.036 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.036 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.036 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.037 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.037 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.037 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.037 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.037 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.037 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.037 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.038 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.038 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.038 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.038 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.038 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.038 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.039 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.039 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.039 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.039 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.039 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.040 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.040 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.040 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.040 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.041 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.041 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.041 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.041 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+11:58:37.041 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+11:58:37.041 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+11:58:37.042 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+11:58:37.042 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+11:58:37.042 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+11:58:37.042 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+11:58:37.042 INFO  org.cornutum.tcases.Reducer - [addShape] Round 1: after 10 samples, terminating with 3 test cases
+11:58:37.042 INFO  org.cornutum.tcases.Reducer - [addShape] Could not reduce initial 3 test cases
+11:58:37.042 INFO  org.cornutum.tcases.Reducer - Generator definitions not changed
+11:58:37.042 INFO  o.cornutum.tcases.ReducerCommand - [annotations] Generator definition not changed
+12:00:23.686 INFO  o.cornutum.tcases.ReducerCommand - Tcases 4.0.3 (2024-01-19)
+12:00:23.690 INFO  o.cornutum.tcases.ReducerCommand - Reading system input definition=annotations-Input.xml
+12:00:23.705 WARN  o.c.t.io.SystemInputDocReader - line=49: property=1D is defined but never used
+12:00:23.705 WARN  o.c.t.io.SystemInputDocReader - line=60: property=Large is defined but never used
+12:00:23.711 INFO  org.cornutum.tcases.Reducer - [addShape] Initializing test cases to be reduced
+12:00:23.713 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.717 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.720 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.726 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.726 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.727 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.727 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.732 INFO  org.cornutum.tcases.Reducer - [addShape] Round 1: starting next 10 samples
+12:00:23.732 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.732 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.733 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.735 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.736 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.736 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.736 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.736 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.736 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.736 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.737 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.737 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.737 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.737 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.739 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.739 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.739 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.739 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.739 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.739 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.739 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.740 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.740 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.740 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.740 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.740 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.740 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.741 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.741 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.741 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.742 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.742 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.742 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.742 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.742 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.743 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.744 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.744 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.744 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.744 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.744 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.744 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.744 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.745 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.745 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.745 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.745 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.745 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Preparing constraint info
+12:00:23.746 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Generating test cases
+12:00:23.746 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 valid base test cases
+12:00:23.746 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 3 valid test cases
+12:00:23.746 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Extended 0 base failure test cases
+12:00:23.746 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Created 0 failure test cases
+12:00:23.747 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[addShape]: Completed 3 test cases
+12:00:23.747 INFO  org.cornutum.tcases.Reducer - [addShape] Round 1: after 10 samples, terminating with 3 test cases
+12:00:23.747 INFO  org.cornutum.tcases.Reducer - [addShape] Could not reduce initial 3 test cases
+12:00:23.747 INFO  org.cornutum.tcases.Reducer - Generator definitions not changed
+12:00:23.747 INFO  o.cornutum.tcases.ReducerCommand - [annotations] Generator definition not changed
+12:01:23.603 INFO  o.cornutum.tcases.ReducerCommand - Tcases 4.0.3 (2024-01-19)
+12:01:23.608 INFO  o.cornutum.tcases.ReducerCommand - Reading system input definition=find-Input.xml
+12:01:23.631 INFO  org.cornutum.tcases.Reducer - [find] Initializing test cases to be reduced
+12:01:23.633 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.638 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.640 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.660 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 6 valid test cases
+12:01:23.661 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.663 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.663 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 10 test cases
+12:01:23.667 INFO  org.cornutum.tcases.Reducer - [find] Round 1: starting next 10 samples
+12:01:23.668 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.668 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.668 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.674 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 6 valid test cases
+12:01:23.674 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.675 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.675 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 10 test cases
+12:01:23.677 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.677 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.677 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.683 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 6 valid test cases
+12:01:23.683 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.684 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.684 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 10 test cases
+12:01:23.685 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.685 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.685 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.691 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 5 valid test cases
+12:01:23.692 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.693 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.693 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 9 test cases
+12:01:23.694 INFO  org.cornutum.tcases.Reducer - [find] Round 1: after 3 samples, reached 9 test cases with seed=2361079514582946816
+12:01:23.694 INFO  org.cornutum.tcases.Reducer - [find] Round 2: starting next 10 samples
+12:01:23.694 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.694 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.694 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.697 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 6 valid test cases
+12:01:23.698 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.698 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.698 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 10 test cases
+12:01:23.699 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.699 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.699 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.703 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 7 valid test cases
+12:01:23.703 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.704 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.704 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 11 test cases
+12:01:23.705 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.705 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.705 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.708 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 5 valid test cases
+12:01:23.708 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.709 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.709 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 9 test cases
+12:01:23.710 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.710 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.710 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.713 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 6 valid test cases
+12:01:23.713 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.714 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.714 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 10 test cases
+12:01:23.715 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.715 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.715 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.718 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 7 valid test cases
+12:01:23.719 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.719 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.719 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 11 test cases
+12:01:23.720 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.720 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.720 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.723 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 6 valid test cases
+12:01:23.723 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.724 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.724 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 10 test cases
+12:01:23.724 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.724 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.724 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.727 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 5 valid test cases
+12:01:23.727 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.727 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.727 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 9 test cases
+12:01:23.728 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.728 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.728 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.730 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 5 valid test cases
+12:01:23.730 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.731 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.731 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 9 test cases
+12:01:23.731 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.731 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.731 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.733 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 5 valid test cases
+12:01:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.734 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 9 test cases
+12:01:23.735 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Preparing constraint info
+12:01:23.735 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Generating test cases
+12:01:23.735 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 valid base test cases
+12:01:23.737 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 6 valid test cases
+12:01:23.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Extended 0 base failure test cases
+12:01:23.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Created 4 failure test cases
+12:01:23.738 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[find]: Completed 10 test cases
+12:01:23.739 INFO  org.cornutum.tcases.Reducer - [find] Round 2: after 10 samples, terminating with 9 test cases
+12:01:23.739 INFO  org.cornutum.tcases.Reducer - [find] Reduced to 9 test cases with seed=2361079514582946816 -- updating generator definition
+12:03:06.177 INFO  o.cornutum.tcases.ReducerCommand - Tcases 4.0.3 (2024-01-19)
+12:03:06.181 INFO  o.cornutum.tcases.ReducerCommand - Reading system input definition=tcases-Input.xml
+12:03:06.203 WARN  o.c.t.io.SystemInputDocReader - line=108: property=outFileExists is defined but never used
+12:03:06.206 INFO  o.cornutum.tcases.ReducerCommand - Reading generator definition=tcases-Generators.xml
+12:03:06.212 INFO  org.cornutum.tcases.Reducer - [run] Initializing test cases to be reduced
+12:03:06.214 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.218 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.223 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.258 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:06.258 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.274 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.274 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:06.282 INFO  org.cornutum.tcases.Reducer - [run] Round 1: starting next 10 samples
+12:03:06.282 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.282 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.282 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.291 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:06.291 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.300 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.300 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:06.303 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.303 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.303 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.314 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:06.314 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.322 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.322 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:06.324 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.324 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.325 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.332 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:06.332 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.340 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.340 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:06.342 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.342 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.342 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.350 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:06.350 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.358 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.358 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:06.360 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.360 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.360 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.370 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:06.370 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.381 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.381 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:06.383 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.383 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.384 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.394 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:06.394 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.405 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.405 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:06.407 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.407 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.407 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.418 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:06.418 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.427 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.427 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:06.428 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.429 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.429 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.437 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:06.437 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.447 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.447 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:06.449 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.449 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.449 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.458 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:06.458 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.466 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.466 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:06.467 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:06.467 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:06.468 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:06.476 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:06.476 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:06.483 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:06.483 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:06.485 INFO  org.cornutum.tcases.Reducer - [run] Round 1: after 10 samples, terminating with 16 test cases
+12:03:06.485 INFO  org.cornutum.tcases.Reducer - [run] Could not reduce initial 16 test cases
+12:03:06.485 INFO  org.cornutum.tcases.Reducer - Generator definitions not changed
+12:03:06.485 INFO  o.cornutum.tcases.ReducerCommand - [tcases] Generator definition not changed
+12:03:53.549 INFO  o.cornutum.tcases.ReducerCommand - Tcases 4.0.3 (2024-01-19)
+12:03:53.554 INFO  o.cornutum.tcases.ReducerCommand - Reading system input definition=tcases-Input.xml
+12:03:53.576 WARN  o.c.t.io.SystemInputDocReader - line=108: property=outFileExists is defined but never used
+12:03:53.578 INFO  o.cornutum.tcases.ReducerCommand - Reading generator definition=tcases-Generators.xml
+12:03:53.584 INFO  org.cornutum.tcases.Reducer - [run] Initializing test cases to be reduced
+12:03:53.586 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.591 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.595 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.629 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:53.630 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.646 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.646 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:53.654 INFO  org.cornutum.tcases.Reducer - [run] Round 1: starting next 10 samples
+12:03:53.654 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.654 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.654 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.663 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:53.663 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.672 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.672 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:53.674 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.674 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.675 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.683 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:53.683 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.692 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.693 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:53.695 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.695 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.695 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.703 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:53.703 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.710 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.711 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:53.712 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.712 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.713 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.720 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:53.720 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.728 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.728 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:53.730 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.731 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.731 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.741 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:53.741 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.751 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.751 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:53.753 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.753 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.754 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.762 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:53.763 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.771 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.771 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:53.773 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.773 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.773 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.784 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:53.784 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.792 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.792 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:53.794 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.794 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.794 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.802 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 6 valid test cases
+12:03:53.802 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.812 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.812 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 16 test cases
+12:03:53.814 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.814 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.814 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.824 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:53.824 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.833 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.833 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:53.834 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Preparing constraint info
+12:03:53.834 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Generating test cases
+12:03:53.835 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 valid base test cases
+12:03:53.843 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 7 valid test cases
+12:03:53.844 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Extended 0 base failure test cases
+12:03:53.851 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Created 10 failure test cases
+12:03:53.852 INFO  o.c.t.generator.TupleGenerator - FunctionInputDef[run]: Completed 17 test cases
+12:03:53.853 INFO  org.cornutum.tcases.Reducer - [run] Round 1: after 10 samples, terminating with 16 test cases
+12:03:53.853 INFO  org.cornutum.tcases.Reducer - [run] Could not reduce initial 16 test cases
+12:03:53.853 INFO  org.cornutum.tcases.Reducer - Generator definitions not changed
+12:03:53.853 INFO  o.cornutum.tcases.ReducerCommand - [tcases] Generator definition not changed
