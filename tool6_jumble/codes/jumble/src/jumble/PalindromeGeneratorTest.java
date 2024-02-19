@@ -11,6 +11,9 @@ public class PalindromeGeneratorTest {
         assertEquals(1221, PalindromeGenerator.generatePalindrome(12));
         assertEquals(123321, PalindromeGenerator.generatePalindrome(123));
         assertEquals(12344321, PalindromeGenerator.generatePalindrome(1234));
+        assertEquals(77, PalindromeGenerator.generatePalindrome(7));
+        assertEquals(88, PalindromeGenerator.generatePalindrome(8));
+
     }
 
   
